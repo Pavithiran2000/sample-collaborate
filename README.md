@@ -1,5 +1,5 @@
 
-# samp-coll
+# sam-coll
 
-add from pavithiran-techorin
-add from pavithiran2000
+add from pavithir-techorin
+add from pavithan2000
